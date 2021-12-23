@@ -1,5 +1,5 @@
 # eso-addon-manager
-My command line interface for easily downloading, installing, and updating addons for Elder Scrolls Online on Linux
+My command line interface for easily downloading, installing, and updating addons for Elder Scrolls Online on Linux.
 
 Please note that I no longer play Elder Scrolls Online so this doesn't really get used and hasn't been ran or updated for a few years now.
 
@@ -30,6 +30,10 @@ Well first off, I'd Check if this even still worked. Its based on regex parsing 
 Also, I would add functionality for removing addons.
 
 Would probably use a real json as well instead of just a ghetto txt file. I was being hacky with this script. Honestly I just wanted to get this program written ASAP so I could go back to playing.
+
+## What is fix_script.sh ??
+
+I had a problem with one of the addon's lua tables being buggy. Basically it would reset the tables. I believe I had to run it everytime that particular addon got updated. I think you could edit this script to use it to import other people's Harvest Map (that was the name of the addon I believe) data.
 
 ## Who to Blame for this Mess
 
