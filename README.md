@@ -17,11 +17,11 @@ But again, I don't recommend using this.
 
 ## Executing Program
 
-'''
+```
 python AddonManager.py -h
-'''
- Has all the details.
- Make sure you use the INFO page on ESOUI for the ESO addon that you want.
+```
+has all the details.
+Make sure you use the INFO page on ESOUI for the ESO addon that you want.
 
 ## Things that I would fix if I kept using this
 
